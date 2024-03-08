@@ -1,0 +1,7 @@
+{
+  "name": "library-management",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
